@@ -1,0 +1,29 @@
+Platform as a Service is one of the cloud computing service 
+here Service Provider delivers hardware and software tools usually those needed for application devlopment to users over the internet.
+Ex:- Renting car a car (we don't need to buy a car ,just paying for gas )
+PAAS frees developers from installing in-house H/W and S/W or running a new application.But , it doesn't typically replace a business's entire IT infrastructure.
+instead, it usually incorporates various underlying cloud infrastructure like
+components, like O.S.,
+servers,
+DBs,
+Middleware,
+N/Wing Equipments,
+Stoage services
+all Owned, Operated,configured, and maintained by the service PRovider.
+The data and [Aerated,configured the applications are managed by us.
+PAAS Operates on a Per-Use basis.
+making it affordable for projects,but some providers vharge a flat monthly fee.
+PAAS offering are usually used for mobile app and cross platform app devlopment, as well as DevOps tools.
+The primary benefit of PAAS is simplicity and convenience for users typically, developers.
+PAAS decreases
+1.PAAS decreases infrastructure management
+2.Automates or eliminates maintainance tasks
+3.Removes the complexities of Load balancing,Scaling, and distributingd dependent service
+4.aloows Organisations to adopt new offerings and technologies without overhauling business processes.
+
+Risks of PAAS are
+1.Service availability is a concern, since provider service outages can severely affect customers and productivity.
+2.uncontrolable internal changes to a PAAS product that can disrupt users.
+
+:::wq
+[A[3~[3~[C[C
