@@ -18,6 +18,6 @@ steps:
       action: 'Create Or Update Resource Group'
       resourceGroupName: 'sri-rg'
       location: 'Central India'
-      templateLocation: 'Linked artifact'
-      csmFile: 'D:\armfiles\storage.json'
+      templateLocation: 'URL of the file'
+      csmFileLink: 'https://github.com/Srilakshmi1-lab/AzureDevOpsRepo/blob/main/storage.json'
       deploymentMode: 'Incremental'
