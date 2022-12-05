@@ -1,26 +1,17 @@
 {
-    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
-    "contentVersion": "1.0.0.0",
-    "parameters": {
-        
-    },
-    "functions": [],
-    "variables": {},
-    "resources": [   
-        {
-            "name": "storagegithub1",
-            "type": "Microsoft.Storage/storageAccounts",
-            "apiVersion": "2021-04-01",
-            "tags": {
-                "displayName": "storageaccount"
-            },
-            "location": "Central India",
-            "kind": "StorageV2",
-            "sku": {
-                "name": "Standard_LRS",
-                "tier": "Standard"
-            }
-        }
-    ],
-    "outputs": {}
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "resources": [
+    {
+      "type": "Microsoft.Storage/storageAccounts",
+      "apiVersion": "2021-09-01",
+      "name": "storagegithub1ab",
+      "location": "eastus",
+      "sku": {
+        "name": "Standard_LRS"
+      },
+      "kind": "StorageV2",
+      
+    }
+  ]
 }
